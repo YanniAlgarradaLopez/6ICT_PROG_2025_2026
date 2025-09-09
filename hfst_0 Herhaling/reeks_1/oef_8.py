@@ -12,6 +12,6 @@ def seconden_in_leven(leeftijd, sekse):
     """
 
 
-print( seconden_in_leven(0, "vrouw")  ) # 2524608000
+print( seconden_in_leven(0, "vrouw")  ) # 2650838400
 print( seconden_in_leven(74, "man")   ) # 189345600
-print( seconden_in_leven(56, "vrouw") ) # 757382400
+print( seconden_in_leven(56, "vrouw") ) # 883612800
