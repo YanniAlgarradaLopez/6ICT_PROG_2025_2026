@@ -7,3 +7,4 @@ response_json = response.json()
 with open("chucknorris_data.json", "w") as fp:
     json.dump(response_json, fp)
     print("Data gedumpt!")
+

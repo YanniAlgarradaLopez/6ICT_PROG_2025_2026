@@ -19,3 +19,5 @@ Voorbeelden (CO2 uitstoot afgerond op 3 cijfers na de komma):
         Print || Geen geldige site opgegeven.
 
 """
+import requests
+

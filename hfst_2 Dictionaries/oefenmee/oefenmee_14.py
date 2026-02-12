@@ -23,3 +23,5 @@ spelinfo = {
         }
     }
 }
+spelinfo['speler2']['positie'] = "x"
+print(spelinfo)

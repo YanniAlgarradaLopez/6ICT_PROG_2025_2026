@@ -11,3 +11,8 @@ Advies 3:
     Print || No advice slips found matching that search term.
 
 """
+import requests
+
+query = input("Topic for advice: ")
+response_json = requests.get(f"")
+
