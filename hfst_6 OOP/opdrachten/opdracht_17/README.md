@@ -1,4 +1,4 @@
-## Opdracht 15
+## Opdracht 17
 Vervolledig de klassen `Rechthoek` en `Vierkant` in het bestand `vormen.py`. De klasse `Rechthoek` is hierbij een ouder van `Vierkant`. In het bestand **test.py** zijn testen te vinden om de correcte werking van iedere klasse na te gaan. Indien je opdracht 13 gemaakt hebt, kan je onderdelen van de code hieruit copy-pasten voor deze opdracht.
 
 ### Rechthoek klasse

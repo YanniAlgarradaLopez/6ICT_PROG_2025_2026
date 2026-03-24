@@ -1,10 +1,10 @@
 # Doorloop de code in debug-mode. Wanneer wordt er in __init__ gesprongen?
 class Kat:
-    def __init__(self, naam, leeftijd):
+    def __init__(self, naam:str, leeftijd:int) -> None:
         self.naam = naam
         self.leeftijd = leeftijd
 
-    def oud(self):
+    def oud(self)  -> None:
         print(f"{self.naam} is {self.leeftijd}")
 
 kater = Kat("Marcel", 9)

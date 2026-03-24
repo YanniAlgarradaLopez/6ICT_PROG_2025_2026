@@ -3,7 +3,7 @@
 class Kat:
     naam = "Borysz"
 
-    def miauw(self):
+    def miauw(self) -> None:
         print(f"{kitten.naam} zegt miauw")
 
 kater = Kat()

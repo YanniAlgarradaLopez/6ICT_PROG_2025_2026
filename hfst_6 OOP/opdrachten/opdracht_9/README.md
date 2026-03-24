@@ -1,4 +1,4 @@
-# Opdracht 7: Particle Storm
+# Opdracht 9: Particle Storm
 In deze opdracht maken jullie een Particle Storm. Dit is een simulatie die een aantal bewegende partikels (cirkels) op een scherm toont. Onderstaande is een voorbeeld van hoe de Particle Storm er op het einde uit kan zien.
 
 <p align="center">

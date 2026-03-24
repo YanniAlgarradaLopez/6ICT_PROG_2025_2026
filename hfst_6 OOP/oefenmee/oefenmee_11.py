@@ -2,13 +2,13 @@
 # Je start reeds met de __init__ van beide klassen.
 
 class Persoon:
-    def __init__(self, naam):
+    def __init__(self, naam:str) -> None:
         self.naam = naam
         self.honden = []
 
 
 class Hond:
-    def __init__(self, naam):
+    def __init__(self, naam:str) -> None:
         self.naam = naam
         self.eigenaar = ""
 

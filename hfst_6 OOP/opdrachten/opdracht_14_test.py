@@ -1,4 +1,4 @@
-from opdracht_12 import Account, Bank
+from opdracht_14 import Account, Bank
 
 # # TESTEN NIVEAU 1 (  / 5)
 account_1 = Account("Jan", 10, "basis")

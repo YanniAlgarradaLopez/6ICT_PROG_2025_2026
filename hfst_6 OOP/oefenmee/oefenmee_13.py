@@ -1,10 +1,10 @@
 " Ouder Dier heeft 2 methoden & eigenschappen.  "
 class Dier():
-    def __init__(self, naam, leeftijd):
+    def __init__(self, naam:str, leeftijd:int) -> None:
         self.naam = naam
         self.leeftijd = leeftijd
 
-    def heeft_naam(self):
+    def heeft_naam(self) -> None:
         print(self.naam)
 
 

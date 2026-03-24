@@ -1,4 +1,4 @@
-## Opdracht 16
+## Opdracht 18
 Je begint je eigen coder dojo! In dit project zul je object georiënteerd programmeren gebruiken om een `Lid`, `Student`, `Instructeur` en `Workshop` klasse te maken in **dojo.py**. De `Student` en `Instructeur` klasse moeten een kind zijn van de klasse `Lid`. In het bestand **test.py** zijn testen te vinden om de correcte werking van iedere klasse na te gaan.
 
 ### Lid klasse

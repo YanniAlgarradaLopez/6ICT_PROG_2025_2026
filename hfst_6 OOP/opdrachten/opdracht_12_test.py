@@ -1,6 +1,6 @@
 " Je kan de code ook rechtstreeks vanuit dit bestand uitvoeren. "
 " Pas hiervoor het pad aan zodat je in de folder met opdracht 10 staat. "
-from opdracht_10 import Speler, Spel
+from opdracht_12 import Speler, Spel
 
 " Via onderstaande code kan je niveau 1 testen. "
 
